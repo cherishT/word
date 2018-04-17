@@ -1,0 +1,11 @@
+[1mdiff --git a/README1.md b/README1.md[m
+[1mindex 172e9c9..eabef69 100644[m
+[1m--- a/README1.md[m
+[1m+++ b/README1.md[m
+[36m@@ -1,2 +1,3 @@[m
+ remember mme[m
+[31m-shew sss[m
+\ No newline at end of file[m
+[32m+[m[32mshew sss[m
+[32m+[m[32mjkl[m
+\ No newline at end of file[m

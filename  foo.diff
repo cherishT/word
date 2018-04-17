@@ -1,0 +1,23 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 32f4129..e69de29 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +0,0 @@[m
+[31m-remember me[m
+\ No newline at end of file[m
+[1mdiff --git a/README1.md b/README1.md[m
+[1mdeleted file mode 100644[m
+[1mindex d194ff4..0000000[m
+[1m--- a/README1.md[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-remember mme[m
+\ No newline at end of file[m
+[1mdiff --git a/poem.docx b/poem.docx[m
+[1mdeleted file mode 100644[m
+[1mindex 91f4a12..0000000[m
+Binary files a/poem.docx and /dev/null differ
+[1mdiff --git a/poem1.docx b/poem1.docx[m
+[1mdeleted file mode 100644[m
+[1mindex 5ea5b8b..0000000[m
+Binary files a/poem1.docx and /dev/null differ
